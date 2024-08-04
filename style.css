@@ -1,0 +1,21 @@
+.ingredients,
+.steps {
+    color:darkslategray;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ingredient-list,
+.step-list {
+    background-color: gray;
+    color:bisque;
+}
+
+a {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
